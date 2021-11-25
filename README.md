@@ -6,7 +6,3 @@
 rangikagmg/rangikagmg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-My Recent Certifications
-https://www.coursera.org/account/accomplishments/professional-cert/LZ23MUBYC74T
